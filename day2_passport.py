@@ -43,6 +43,8 @@ age = int(input("🎂 How old are you? "))
 mood = input("😎 How are you feeling today? (happy, sleepy, lit, chill, etc): ").lower()
 sweet = input("🍬 Do you want something sweet? (yes/no): ").lower()
 fruit = input("🍉 What's your favorite fruit? (mango, strawberry, banana, etc): ").lower()
+allergies = input("Do you have any allergies?")
+size = input("What size would you like?")
 
 # Logic for drink recommendation
 print("\n🧪 Mixing your ingredients...\n")
